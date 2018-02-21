@@ -7,7 +7,6 @@ Submission Date:10/18/2017
 Purpose:  Catch the red ghost using shortest path
 Input: Initial ghost position and Initial packman position
 Output: Shortest path to ghost using A* algorithm
-Help:Internet for understanding A* application
 *******************************************************************************/
 
 import java.awt.*;
